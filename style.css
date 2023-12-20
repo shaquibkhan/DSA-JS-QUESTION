@@ -1,0 +1,10 @@
+.myFlex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.myH1{
+    font-size: 24px;
+    font-weight: 500;
+}
